@@ -1,16 +1,27 @@
-### Hi there 👋
+### ¡Hola! ¡Soy Sergio Ordaz!
 
-<!--
-**Corack117/Corack117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un Full Stack, autodidácta y de rápido aprendizaje, siempre perseverante frente a los problemas y con ganas de siempre mejorar e innovar, con grandes aspiraciones laborales como personales.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="1440" alt="img" src="https://user-images.githubusercontent.com/26535083/166566917-469438d7-aa65-46c1-8684-97d32f4f77af.png">
+
+
+### Tecnologías:
+#### FrontEnd
+* HTML5
+* CSS3
+* TS
+* JS
+* Angular
+
+#### BackEnd
+* Python
+  * Django Framework
+
+#### Databases
+* MySQL
+* Postgresql
+* MongoDB
+
+#### Controlador de Versiones
+* Git
